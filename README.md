@@ -6,9 +6,12 @@
 #### run the app loccaly 
 
 ```sh
-npm i
+npm install
+cd client
+npm install
 ```
 
+#### from root dir
 ```sh
 npm run dev
 ```
@@ -26,4 +29,11 @@ then move content of /client/public folder to -> /public
 
 ```sh
 /client/public  -> /public
+```
+
+and then
+
+#### from root dir
+```sh
+node server.js
 ```
