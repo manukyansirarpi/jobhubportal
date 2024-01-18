@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
+  <text x="60" y="55" fill="#2cb1bc" font-size="20" font-family="Arial, sans-serif">Job Hub Portal</text>
+  <circle cx="30" cy="50" r="20" fill="#2cb1bc"/>
+  <text x="20" y="55" fill="#FFFFFF" font-size="15" font-family="Arial, sans-serif">JH</text>
+</svg>
