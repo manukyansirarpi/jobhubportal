@@ -1,8 +1,23 @@
-# Job Hub Portal
+# Job Hub Portal 
 
+### Back End Stack
 
+- ### Express.js
+- ### Mongo DB
 
+### Front End
+- ### React.js v18
+- ### react-dom
+- ### styled-components
 
+### Features supported
+
+-  Authentication 
+-  Posting / Searching / Applying for Jobs
+-  Jobs statuses
+-  Stats pages
+-  
+ 
 #### run the app loccaly 
 
 ```sh
