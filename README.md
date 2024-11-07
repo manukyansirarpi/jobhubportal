@@ -1,4 +1,4 @@
-## This is my portfolio project - Job Hub Portal Full Stack App
+## Welcome to my portfolio project - Job Hub Portal Full Stack App
 
 ### Back End Stack
 
