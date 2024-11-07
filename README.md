@@ -1,6 +1,6 @@
-## Job Hub Portal Full Stack Application
+# Job Hub Portal Full Stack Application
 
-Welcome to the Job Hub Portal! This is a React and Express based Full Stack Application that allows users to browse, search, and view  and create job posts , as well as applying for Jobs, and monitoring job application statuses
+Welcome to the Job Hub Portal! This is a React.js and Express.js based Full Stack Application, with Mongo db that allows users to browse, search, view  and create job posts , as well as applying for Jobs, and monitoring job application statuses
 
 ### Back End Stack
 
