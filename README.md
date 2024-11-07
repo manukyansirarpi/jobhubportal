@@ -1,4 +1,6 @@
-## Welcome to my portfolio project - Job Hub Portal Full Stack App
+## Job Hub Portal Full Stack Application
+
+Welcome to the Job Hub Portal! This is a React and Express based Full Stack Application that allows users to browse, search, and view  and create job posts , as well as applying for Jobs, and monitoring job application statuses
 
 ### Back End Stack
 
